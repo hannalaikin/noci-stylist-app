@@ -5,6 +5,10 @@ The tool our stylists use after the quiz: run the call, find real pieces, build 
 Live copy (Hanna's): https://claude.ai/artifact/QoU3KrgAKp4RpXJEWcriP8
 Team front door: https://claude.ai/code/artifact/e8b56509-a3a3-4354-af9e-fa10f363a681
 
+## Read first
+
+New here? Open [docs/start-here.md](docs/start-here.md). The funnel, the playbook and the stylist research are in [docs/](docs/).
+
 ## The fastest way to work on it
 
 Open this folder in Claude Code and say what you want changed. Claude reads this README, edits the right file, rebuilds, and publishes. You do not need to write code.
